@@ -1,4 +1,4 @@
-@import "actiontext";
+@import "rhino-editor/exports/styles/trix.css";
 
 @tailwind base;
 @tailwind components;
